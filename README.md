@@ -2,7 +2,7 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| Beatrice Grassano| |370780
+| Beatrice Grassano|370780 |
 | | |
 | | |
 
